@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the agile_dh feature.
+ */
+
+include_once 'agile_dh.features.inc';
